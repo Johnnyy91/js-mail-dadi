@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+#PC{
+    font-size: 2rem;
+    background-color: green;
+
+}
+
+#User{
+    font-size: 2rem;
+    background-color: red;
+}
+
+#container{
+    font-size: 2rem;
+    background-color: aqua;
+}
