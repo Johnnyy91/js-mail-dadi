@@ -2,20 +2,35 @@ body{
     display: flex;
     justify-content: space-around;
     align-content: center;
+    margin-top: 300px;
 }
 
 #PC{
     font-size: 2rem;
-    background-color: green;
-
+    background-color: rgba(0, 128, 0, 0.858);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #User{
     font-size: 2rem;
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.797);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #container{
     font-size: 2rem;
-    background-color: aqua;
+    background-color: rgba(0, 225, 255, 0.709);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

@@ -18,19 +18,18 @@ if (Usernumber > PCnumber)
 {
     result = 'winner User'
     solution.innerHTML = result
-    
 }
+
 else if(Usernumber === PCnumber)
 {
     result = 'XXX'
     solution.innerHTML = result
-    
 }
+
 else
 {
     result = 'winner PC'
     solution.innerHTML = result
-  
 }
 
 console.log(result)
